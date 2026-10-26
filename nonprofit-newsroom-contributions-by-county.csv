@@ -1,94 +1,94 @@
-outlet,legal_name,scope,state,fips,latest_year,latest_contrib,prior_year,prior_contrib,avg2_contrib,hh,pool,indiv,per_hh,share_pool,share_pool_ind,in_analysis,exclusion_reason
-WBEZ/Sun-Times,Chicago Public Media Inc,Local,IL,17031,2024,28166867,,,28166867,2100230,2546924247,3826471000,13.411,0.011,0.004,no,public media
-Baltimore Banner,The Venetoulis Institute For Local Journalism,Local,MD,24510,2023,15746848,,,15746848,255668,308824069,314597000,61.591,0.051,0.025,yes,
-Chalkbeat,Civic News Company,Regional,NY,36047,2023,14517183,,,14517183,1009927,268841254,2038026000,14.374,0.054,0.006,no,multi-city network
-Texas Tribune,Texas Tribune Inc,Statewide,TX,48453,2023,13487481,,,13487481,583747,356799570,1484843000,23.105,0.038,0.007,no,statewide outlet; county frame does not apply
-CalMatters,Calmatters,Statewide,CA,06067,2023,11384655,2022,13003740,12194197.5,571057,20188830,636982000,21.354,0.604,0.019,no,statewide outlet; county frame does not apply
-Honolulu Civil Beat,Honolulu Civil Beat Inc,Local,HI,15003,2023,5924213,,,5924213,338868,70446596,403387000,17.482,0.084,0.013,yes,
-Capital B,Capital B News Inc,Regional,NY,36061,2023,4576688,2022,6572381,5574534.5,778281,6813512919,6456094000,7.163,0.001,0.0,no,multi-city network
-Mississippi Today,Deep South Today,Statewide,MS,28049,2023,5889368,2022,4528659,5209013.5,89578,2913189,124533000,58.151,1.788,0.041,no,statewide outlet; county frame does not apply
-Bridge Michigan,The Center For Michigan Inc,Statewide,MI,26163,2023,2249198,2022,7540350,4894774.0,700591,372060913,568232000,6.987,0.013,0.005,no,statewide outlet; county frame does not apply
-THE CITY,City Report Inc,Statewide,NY,36061,2023,3417216,2022,6371150,4894183.0,778281,6813512919,6456094000,6.288,0.001,0.0,no,statewide outlet; county frame does not apply
-EdSource,Edsource Inc,Statewide,CA,06001,2023,5589831,2022,3143927,4366879.0,598246,218013635,1428039000,7.299,0.02,0.003,no,statewide outlet; county frame does not apply
-Street Roots,Street Roots,Regional,OR,41051,2023,2882682,2022,5213282,4047982.0,349803,151787175,433394000,11.572,0.027,0.007,no,street paper
-City Bureau NFP,City Bureau Nfp,Local,IL,17031,2023,3285423,2022,3979568,3632495.5,2100230,2546924247,3826471000,1.73,0.001,0.001,no,"civic media organization, not a newsroom"
-Berkeleyside and The Oaklandside,Cityside Journalism Initiative,Local,CA,06001,2023,2974914,2022,3293821,3134367.5,598246,218013635,1428039000,5.239,0.014,0.002,yes,
-Capital & Main,Capital & Main,Regional,CA,06037,2023,3134046,,,3134046,3416449,2688479114,8014722000,0.917,0.001,0.0,no,multi-city network
-Nevada Independent,Nevada News Bureau Inc,Statewide,NV,32003,2023,3117295,,,3117295,862518,176307216,1446485000,3.614,0.018,0.002,no,statewide outlet; county frame does not apply
-Outlier Media,Outlier Media,Local,MI,26163,2023,3045215,2022,2906500,2975857.5,700591,372060913,568232000,4.248,0.008,0.003,yes,
-Sahan Journal,Sahan Journal,Statewide,MN,27123,2023,4196908,2022,1703450,2950179.0,221327,402849209,262616000,13.33,0.007,0.004,no,statewide outlet; county frame does not apply
-The Salt Lake Tribune,The Salt Lake Tribune Inc,Statewide,UT,49035,2023,3382847,2022,2478072,2930459.5,426245,384427805,1288517000,6.875,0.008,0.002,no,statewide outlet; county frame does not apply
-High Country News,High Country News,Regional,CO,08029,2023,3117003,2022,2576738,2846870.5,12959,285353,6727000,219.683,9.977,0.406,no,magazine
-Block Club Chicago,Block Club Chicago Nfp,Local,IL,17031,2023,1739480,2022,3384174,2561827.0,2100230,2546924247,3826471000,1.22,0.001,0.0,yes,
-Voice of San Diego,Voice Of San Diego,Local,CA,06073,2023,1859147,2022,2969035,2414091.0,1171278,359483164,2295124000,2.061,0.007,0.001,yes,
-Connecticut Mirror,Connecticut News Project Inc,Statewide,CT,09110,2023,2370868,2022,2342438,2356653.0,391113,96433515,345550000,6.026,0.024,0.005,no,statewide outlet; county frame does not apply
-VTDigger,Vermont Journalism Trust,Statewide,VT,50023,2023,2307422,2022,2198843,2253132.5,25855,2263701,15737000,87.145,0.995,0.125,no,statewide outlet; county frame does not apply
-New York Focus,New York Focus News,Statewide,NY,36061,2023,3533279,2022,931696,2232487.5,778281,6813512919,6456094000,2.868,0.0,0.0,no,statewide outlet; county frame does not apply
-Fort Worth Report,Fort Worth Report,Local,TX,48439,2023,1665324,2022,2374961,2020142.5,782419,391117277,1683674000,2.582,0.005,0.001,yes,
-San Antonio Report,San Antonio Report,Local,TX,48029,2023,1907074,2022,1957346,1932210.0,750939,252924826,873837000,2.573,0.008,0.002,yes,
-inewsource,Investigative Newsource,Local,CA,06073,2024,1951664,2023,1652277,1801970.5,1171278,359483164,2295124000,1.538,0.005,0.001,yes,
-The New Bedford Light,New Bedford Light,Local,MA,25005,2023,1973614,2022,1532883,1753248.5,233825,17195550,130687000,7.498,0.102,0.012,yes,
-Lexington Observer,Lexington Observer Inc,Local,MA,25017,2023,1737013,,,1737013,634215,529744525,1954195000,2.739,0.003,0.001,yes,
-Injustice Watch,Injustice Watch Nfp,Local,IL,17031,2023,1281473,2022,2149610,1715541.5,2100230,2546924247,3826471000,0.817,0.001,0.0,yes,
-MinnPost,Minnpost,Statewide,MN,27053,2023,2036560,2022,1333163,1684861.5,539493,882193445,1093450000,3.123,0.002,0.001,no,statewide outlet; county frame does not apply
-El Paso Matters,El Paso Matters Inc,Local,TX,48141,2023,1613922,2022,1475693,1544807.5,299637,7435588,158543000,5.156,0.208,0.009,yes,
-Chicago Reader,Reader Institute For Community Journalism Inc,Local,IL,17031,2023,1477404,2022,1568270,1522837.0,2100230,2546924247,3826471000,0.725,0.001,0.0,yes,
-PublicSource,Publicsource Inc,Local,PA,42003,2023,1083094,2022,1654695,1368894.5,545802,906440711,527334000,2.508,0.002,0.001,yes,
-Real Change,Real Change Homeless Empowerment Project,Local,WA,53033,2023,1355957,,,1355957,941054,1008440688,2665214000,1.441,0.001,0.0,no,street paper
-New Haven Independent,Online Journalism Project Inc,Local,CT,09170,2023,1208902,2022,1351004,1279953.0,230673,194171402,233056000,5.549,0.007,0.003,yes,
-The Beacon News,Beacon Media Inc,Local,MO,29095,2023,1651477,2022,855837,1253657.0,306798,281097637,280179000,4.086,0.004,0.002,yes,
-The Contributor,The Contributor Inc,Local,TN,47037,2023,1212114,2022,1189342,1200728.0,324907,175874929,711837000,3.696,0.007,0.001,no,street paper
-Montana Free Press,Montana Free Press,Statewide,MT,30049,2023,1281919,2022,1051089,1166504.0,31215,1295741,29815000,37.37,0.9,0.037,no,statewide outlet; county frame does not apply
-Mississippi Free Press,Mississippi Journalism And Education Group,Statewide,MS,28049,2023,1508299,2022,791951,1150125.0,89578,2913189,124533000,12.839,0.395,0.009,no,statewide outlet; county frame does not apply
-Adirondack Explorer,Adirondack Explorer Inc,Local,NY,36033,2024,900497,2023,1348650,1124573.5,19514,2431336,3622000,57.629,0.463,0.186,no,magazine
-Idaho Ed News,Idaho Education News,Statewide,ID,16001,2023,1052371,,,1052371,202543,95947759,380670000,5.196,0.011,0.002,no,statewide outlet; county frame does not apply
-Mountain State Spotlight,Mountain State Spotlight Inc,Statewide,WV,54039,2023,973619,2022,1123213,1048416.0,76459,8665711,40902000,13.712,0.121,0.021,no,statewide outlet; county frame does not apply
-WyoFile,Wyofile,Statewide,WY,56013,2023,1087968,2022,960185,1024076.5,15037,3231274,9972000,68.104,0.317,0.078,no,statewide outlet; county frame does not apply
-City Limits,City Limits News Inc,Local,NY,36061,2023,1073178,2022,866963,970070.5,778281,6813512919,6456094000,1.246,0.0,0.0,yes,
-Enlace Latino NC,Enlace Latino Nc Inc,Statewide,NC,37183,2023,1197389,2022,739749,968569.0,460175,105076836,953870000,2.105,0.009,0.001,no,statewide outlet; county frame does not apply
-South Side Weekly,South Side Weekly Nfp,Local,IL,17031,2023,828209,,,828209,2100230,2546924247,3826471000,0.394,0.0,0.0,yes,
-Charlottesville Tomorrow,Charlottesville Tomorrow,Local,VA,51540,2023,966085,2022,685164,825624.5,19815,59480163,56843000,41.667,0.014,0.007,no,"county under 25,000 households"
-South Seattle Emerald,South Seattle Emerald,Local,WA,53033,2023,817991,,,817991,941054,1008440688,2665214000,0.869,0.001,0.0,yes,
-San Jose Spotlight,San Jose News Bureau,Local,CA,06085,2023,906942,2022,710181,808561.5,659353,1810415631,5114818000,1.226,0.0,0.0,yes,
-Bay Nature,Bay Nature Institute,Local,CA,06001,2023,881869,2022,612376,747122.5,598246,218013635,1428039000,1.249,0.003,0.0,no,magazine
-Street Sense,Street Sense Inc,Regional,DC,11001,2023,780553,2022,713281,746917.0,324491,777994405,1110685000,2.302,0.001,0.0,no,street paper
-Oklahoma Watch,Oklahoma Watch Inc,Statewide,OK,40143,2023,765911,2022,725183,745547.0,272422,205034342,651181000,2.737,0.004,0.001,no,statewide outlet; county frame does not apply
-Baltimore Beat,Baltimore Beat Inc,Local,MD,24510,2023,675104,2022,725401,700252.5,255668,308824069,314597000,2.739,0.002,0.001,yes,
-The Maine Monitor,Maine Center For Public Interest Reporting,Statewide,ME,23011,2023,809167,2022,538019,673593.0,54312,13386484,19855000,12.402,0.05,0.02,no,statewide outlet; county frame does not apply
-InvestigateWest,Investigatewest,Regional,WA,53033,2023,825134,2022,468682,646908.0,941054,1008440688,2665214000,0.687,0.001,0.0,yes,
-San Francisco Public Press,San Francisco Public Press,Local,CA,06075,2023,429984,2022,791665,610824.5,363970,1860518515,2108685000,1.678,0.0,0.0,yes,
-Canopy Atlanta,Canopy Atlanta,Local,GA,13121,2023,478592,2022,680288,579440.0,462481,881527999,1534790000,1.253,0.001,0.0,yes,
-Mission Local,Mission Local Sf,Local,CA,06075,2023,716255,2022,413228,564741.5,363970,1860518515,2108685000,1.552,0.0,0.0,yes,
-The Frontier,Frontier Media Group,Statewide,OK,40143,2023,540776,2022,511502,526139.0,272422,205034342,651181000,1.931,0.003,0.001,no,statewide outlet; county frame does not apply
-Carolina Public Press,Carolina Public Press Inc,Statewide,NC,37183,2023,403153,2022,595684,499418.5,460175,105076836,953870000,1.085,0.005,0.0,no,statewide outlet; county frame does not apply
-New Mexico In Depth,New Mexico In Depth Inc,Statewide,NM,35043,2023,481940,2022,516614,499277.0,56895,1249265,48036000,8.775,0.4,0.01,no,statewide outlet; county frame does not apply
-South Dakota News Watch,South Dakota News Watch,Statewide,SD,46011,2023,442881,2022,554117,498499.0,13798,46957,12333000,36.128,10.616,0.04,no,statewide outlet; county frame does not apply
-Evanston RoundTable,Evanston Roundtable Media,Local,IL,17031,2023,556136,2022,436589,496362.5,2100230,2546924247,3826471000,0.236,0.0,0.0,yes,
-Montclair Local,Montclair Local Nonprofit News Inc,Local,NJ,34013,2022,383035,2021,584761,483898.0,319788,316298895,520249000,1.513,0.002,0.001,yes,
-Bay City News Foundation,Bay City News Foundation,Regional,CA,06075,2023,481028,,,481028,363970,1860518515,2108685000,1.322,0.0,0.0,yes,
-Borderless Magazine,Borderless Magazine Nfp,Local,IL,17031,2023,486213,2022,472647,479430.0,2100230,2546924247,3826471000,0.228,0.0,0.0,yes,
-The Highlands Current,Highlands Current Inc,Local,NY,36079,2024,423048,2023,515825,469436.5,35545,7499196,53806000,13.207,0.063,0.008,yes,
-Bucks County Herald,Bucks County Herald Foundation,Local,PA,42017,2023,589482,2022,336441,462961.5,249187,54128834,374012000,1.858,0.009,0.001,yes,
-Aspen Journalism,Aspen Journalism,Regional,CO,08097,2023,493966,2022,431382,462674.0,9215,26603839,121826000,50.209,0.017,0.003,no,"county under 25,000 households"
-Boulder Reporting Lab,Local Reporting Lab Initiative Inc,Local,CO,08013,2023,485994,2022,397653,441823.5,137008,121108285,322927000,3.225,0.004,0.001,yes,
-Spotlight Delaware,Spotlight Delaware Inc,Statewide,DE,10003,2023,440827,,,440827,224173,1286330237,293280000,1.966,0.0,0.0,no,statewide outlet; county frame does not apply
-Asheville Watchdog,Asheville Watchdog,Local,NC,37021,2023,408282,2022,455406,431844.0,101855,95125798,143271000,4.24,0.005,0.002,yes,
-Investigative Post,Investigative Post Inc,Local,NY,36029,2023,406713,,,406713,409665,140066856,217334000,0.993,0.003,0.001,yes,
-India Currents,India Currents Foundation,Local,CA,06085,2023,486282,2022,304342,395312.0,659353,1810415631,5114818000,0.6,0.0,0.0,no,magazine
-Austin Monitor,Capital Of Texas Media Foundation,Local,TX,48453,2023,401437,2022,319717,360577.0,583747,356799570,1484843000,0.618,0.001,0.0,yes,
-ecoRI News,Ecori Inc,Regional,RI,44007,2023,396135,2022,317776,356955.5,259210,159651640,146654000,1.377,0.002,0.001,yes,
-CivicLex,Civiclex Incorporated,Local,KY,21067,2023,367144,2022,311471,339307.5,139715,24650368,159341000,2.429,0.014,0.002,yes,
-BenitoLink,Benitolink Inc,Local,CA,06069,2023,296268,2022,344214,320241.0,20561,1315746,30693000,15.575,0.243,0.01,no,"county under 25,000 households"
-The Ithaca Voice,Ithaca Voice,Local,NY,36109,2023,267149,2022,273814,270481.5,43263,45528425,32955000,6.252,0.006,0.003,yes,
-Isthmus Community Media,Isthmus Community Media Inc,Local,WI,55025,2023,283661,2022,248950,266305.5,251529,76405537,323803000,1.059,0.003,0.001,yes,
-Atlanta Civic Circle,Atlanta Civic Circle Inc,Local,GA,13121,2021,248167,,,248167,462481,881527999,1534790000,0.537,0.0,0.0,yes,
-The Land,Land Cle,Local,OH,39035,2023,172865,2022,318199,245532.0,554551,592518054,587121000,0.443,0.0,0.0,yes,
-The Indiana Citizen,Indiana Citizen Education Foundation Inc,Statewide,IN,18097,2023,146851,2022,258778,202814.5,400432,329546888,509350000,0.506,0.001,0.0,no,statewide outlet; county frame does not apply
-Gig Harbor Now,Gig Harbor Now,Local,WA,53053,2023,218484,2022,179255,198869.5,351330,46198573,352697000,0.566,0.004,0.0,yes,
-The Sopris Sun,Sopris Sun Inc,Local,CO,08045,2023,223363,2022,151779,187571.0,23404,34653255,61061000,8.014,0.005,0.002,no,"county under 25,000 households"
-The Daily Catch,The Red Hook Daily Catch Inc,Local,NY,36027,2023,187685,2022,138764,163224.5,116275,31937290,140030000,1.404,0.005,0.001,yes,
-Patagonia Regional Times,Patagonia Regional Times Inc,Local,AZ,04023,2023,138644,2022,155830,147237.0,16966,38557,5650000,8.678,3.819,0.026,no,"county under 25,000 households"
-Ipswich Local News,Ipswich Local News Inc,Local,MA,25009,2023,143066,2022,127339,135202.5,313147,95980600,385061000,0.432,0.001,0.0,yes,
-The Buckeye Flame,The Buckeye Flame,Statewide,OH,39035,2023,155520,2022,73221,114370.5,554551,592518054,587121000,0.206,0.0,0.0,no,statewide outlet; county frame does not apply
-The Oglethorpe Echo,Oglethorpe Echo Legacy Incorporated,Local,GA,13221,2023,59694,2022,19137,39415.5,5411,130500,7954000,7.284,0.302,0.005,no,"county under 25,000 households"
-Fresnoland,Fresnoland Media,Local,CA,06019,2023,22313,2022,34843,28578.0,324702,18245668,349514000,0.088,0.002,0.0,yes,
+outlet,legal_name,scope,state,fips,latest_year,latest_contrib,prior_year,prior_contrib,avg2_contrib,hh,service_area_hh,pool,indiv,per_hh,per_hh_service,share_pool,share_pool_ind,in_analysis,exclusion_reason
+WBEZ/Sun-Times,Chicago Public Media Inc,Local,IL,17031,2024,28166867,,,28166867.0,2100230,,2546924247,3826471000,13.411,,0.011,0.004,no,public media
+Baltimore Banner,The Venetoulis Institute For Local Journalism,Local,MD,24510,2023,15746848,,,15746848.0,255668,255668.0,308824069,314597000,61.591,61.591,0.051,0.025,yes,
+Chalkbeat,Civic News Company,Regional,NY,36047,2023,14517183,,,14517183.0,1009927,,268841254,2038026000,14.374,,0.054,0.006,no,multi-city network
+Texas Tribune,Texas Tribune Inc,Statewide,TX,48453,2023,13487481,,,13487481.0,583747,,356799570,1484843000,23.105,,0.038,0.007,no,statewide outlet; county frame does not apply
+CalMatters,Calmatters,Statewide,CA,6067,2023,11384655,2022.0,13003740.0,12194197.5,571057,,20188830,636982000,21.354,,0.604,0.019,no,statewide outlet; county frame does not apply
+Honolulu Civil Beat,Honolulu Civil Beat Inc,Local,HI,15003,2023,5924213,,,5924213.0,338868,338868.0,70446596,403387000,17.482,17.482,0.084,0.013,yes,
+Capital B,Capital B News Inc,Regional,NY,36061,2023,4576688,2022.0,6572381.0,5574534.5,778281,,6813512919,6456094000,7.163,,0.001,0.0,no,multi-city network
+Mississippi Today,Deep South Today,Statewide,MS,28049,2023,5889368,2022.0,4528659.0,5209013.5,89578,,2913189,124533000,58.151,,1.788,0.041,no,statewide outlet; county frame does not apply
+Bridge Michigan,The Center For Michigan Inc,Statewide,MI,26163,2023,2249198,2022.0,7540350.0,4894774.0,700591,,372060913,568232000,6.987,,0.013,0.005,no,statewide outlet; county frame does not apply
+THE CITY,City Report Inc,Statewide,NY,36061,2023,3417216,2022.0,6371150.0,4894183.0,778281,,6813512919,6456094000,6.288,,0.001,0.0,no,statewide outlet; county frame does not apply
+EdSource,Edsource Inc,Statewide,CA,6001,2023,5589831,2022.0,3143927.0,4366879.0,598246,,218013635,1428039000,7.299,,0.02,0.003,no,statewide outlet; county frame does not apply
+Street Roots,Street Roots,Regional,OR,41051,2023,2882682,2022.0,5213282.0,4047982.0,349803,,151787175,433394000,11.572,,0.027,0.007,no,street paper
+City Bureau NFP,City Bureau Nfp,Local,IL,17031,2023,3285423,2022.0,3979568.0,3632495.5,2100230,,2546924247,3826471000,1.73,,0.001,0.001,no,"civic media organization, not a newsroom"
+Berkeleyside and The Oaklandside,Cityside Journalism Initiative,Local,CA,6001,2023,2974914,2022.0,3293821.0,3134367.5,598246,219941.0,218013635,1428039000,5.239,14.251,0.014,0.002,yes,
+Capital & Main,Capital & Main,Regional,CA,6037,2023,3134046,,,3134046.0,3416449,,2688479114,8014722000,0.917,,0.001,0.0,no,multi-city network
+Nevada Independent,Nevada News Bureau Inc,Statewide,NV,32003,2023,3117295,,,3117295.0,862518,,176307216,1446485000,3.614,,0.018,0.002,no,statewide outlet; county frame does not apply
+Outlier Media,Outlier Media,Local,MI,26163,2023,3045215,2022.0,2906500.0,2975857.5,700591,253207.0,372060913,568232000,4.248,11.753,0.008,0.003,yes,
+Sahan Journal,Sahan Journal,Statewide,MN,27123,2023,4196908,2022.0,1703450.0,2950179.0,221327,,402849209,262616000,13.33,,0.007,0.004,no,statewide outlet; county frame does not apply
+The Salt Lake Tribune,The Salt Lake Tribune Inc,Statewide,UT,49035,2023,3382847,2022.0,2478072.0,2930459.5,426245,,384427805,1288517000,6.875,,0.008,0.002,no,statewide outlet; county frame does not apply
+High Country News,High Country News,Regional,CO,8029,2023,3117003,2022.0,2576738.0,2846870.5,12959,,285353,6727000,219.683,,9.977,0.406,no,magazine
+Block Club Chicago,Block Club Chicago Nfp,Local,IL,17031,2023,1739480,2022.0,3384174.0,2561827.0,2100230,1146547.0,2546924247,3826471000,1.22,2.234,0.001,0.0,yes,
+Voice of San Diego,Voice Of San Diego,Local,CA,6073,2023,1859147,2022.0,2969035.0,2414091.0,1171278,1171278.0,359483164,2295124000,2.061,2.061,0.007,0.001,yes,
+Connecticut Mirror,Connecticut News Project Inc,Statewide,CT,9110,2023,2370868,2022.0,2342438.0,2356653.0,391113,,96433515,345550000,6.026,,0.024,0.005,no,statewide outlet; county frame does not apply
+VTDigger,Vermont Journalism Trust,Statewide,VT,50023,2023,2307422,2022.0,2198843.0,2253132.5,25855,,2263701,15737000,87.145,,0.995,0.125,no,statewide outlet; county frame does not apply
+New York Focus,New York Focus News,Statewide,NY,36061,2023,3533279,2022.0,931696.0,2232487.5,778281,,6813512919,6456094000,2.868,,0.0,0.0,no,statewide outlet; county frame does not apply
+Fort Worth Report,Fort Worth Report,Local,TX,48439,2023,1665324,2022.0,2374961.0,2020142.5,782419,334230.0,391117277,1683674000,2.582,6.044,0.005,0.001,yes,
+San Antonio Report,San Antonio Report,Local,TX,48029,2023,1907074,2022.0,1957346.0,1932210.0,750939,750939.0,252924826,873837000,2.573,2.573,0.008,0.002,yes,
+inewsource,Investigative Newsource,Local,CA,6073,2024,1951664,2023.0,1652277.0,1801970.5,1171278,1171278.0,359483164,2295124000,1.538,1.538,0.005,0.001,yes,
+The New Bedford Light,New Bedford Light,Local,MA,25005,2023,1973614,2022.0,1532883.0,1753248.5,233825,42233.0,17195550,130687000,7.498,41.514,0.102,0.012,yes,
+Lexington Observer,Lexington Observer Inc,Local,MA,25017,2023,1737013,,,1737013.0,634215,12337.0,529744525,1954195000,2.739,140.797,0.003,0.001,no,"service area under 25,000 households"
+Injustice Watch,Injustice Watch Nfp,Local,IL,17031,2023,1281473,2022.0,2149610.0,1715541.5,2100230,1146547.0,2546924247,3826471000,0.817,1.496,0.001,0.0,yes,
+MinnPost,Minnpost,Statewide,MN,27053,2023,2036560,2022.0,1333163.0,1684861.5,539493,,882193445,1093450000,3.123,,0.002,0.001,no,statewide outlet; county frame does not apply
+El Paso Matters,El Paso Matters Inc,Local,TX,48141,2023,1613922,2022.0,1475693.0,1544807.5,299637,299637.0,7435588,158543000,5.156,5.156,0.208,0.009,yes,
+Chicago Reader,Reader Institute For Community Journalism Inc,Local,IL,17031,2023,1477404,2022.0,1568270.0,1522837.0,2100230,1146547.0,2546924247,3826471000,0.725,1.328,0.001,0.0,yes,
+PublicSource,Publicsource Inc,Local,PA,42003,2023,1083094,2022.0,1654695.0,1368894.5,545802,545802.0,906440711,527334000,2.508,2.508,0.002,0.001,yes,
+Real Change,Real Change Homeless Empowerment Project,Local,WA,53033,2023,1355957,,,1355957.0,941054,,1008440688,2665214000,1.441,,0.001,0.0,no,street paper
+New Haven Independent,Online Journalism Project Inc,Local,CT,9170,2023,1208902,2022.0,1351004.0,1279953.0,230673,53424.0,194171402,233056000,5.549,23.958,0.007,0.003,yes,
+The Beacon News,Beacon Media Inc,Local,MO,29095,2023,1651477,2022.0,855837.0,1253657.0,306798,306798.0,281097637,280179000,4.086,4.086,0.004,0.002,yes,
+The Contributor,The Contributor Inc,Local,TN,47037,2023,1212114,2022.0,1189342.0,1200728.0,324907,,175874929,711837000,3.696,,0.007,0.001,no,street paper
+Montana Free Press,Montana Free Press,Statewide,MT,30049,2023,1281919,2022.0,1051089.0,1166504.0,31215,,1295741,29815000,37.37,,0.9,0.037,no,statewide outlet; county frame does not apply
+Mississippi Free Press,Mississippi Journalism And Education Group,Statewide,MS,28049,2023,1508299,2022.0,791951.0,1150125.0,89578,,2913189,124533000,12.839,,0.395,0.009,no,statewide outlet; county frame does not apply
+Adirondack Explorer,Adirondack Explorer Inc,Local,NY,36033,2024,900497,2023.0,1348650.0,1124573.5,19514,,2431336,3622000,57.629,,0.463,0.186,no,magazine
+Idaho Ed News,Idaho Education News,Statewide,ID,16001,2023,1052371,,,1052371.0,202543,,95947759,380670000,5.196,,0.011,0.002,no,statewide outlet; county frame does not apply
+Mountain State Spotlight,Mountain State Spotlight Inc,Statewide,WV,54039,2023,973619,2022.0,1123213.0,1048416.0,76459,,8665711,40902000,13.712,,0.121,0.021,no,statewide outlet; county frame does not apply
+WyoFile,Wyofile,Statewide,WY,56013,2023,1087968,2022.0,960185.0,1024076.5,15037,,3231274,9972000,68.104,,0.317,0.078,no,statewide outlet; county frame does not apply
+City Limits,City Limits News Inc,Local,NY,36061,2023,1073178,2022.0,866963.0,970070.5,778281,3313316.0,6813512919,6456094000,1.246,0.293,0.0,0.0,yes,
+Enlace Latino NC,Enlace Latino Nc Inc,Statewide,NC,37183,2023,1197389,2022.0,739749.0,968569.0,460175,,105076836,953870000,2.105,,0.009,0.001,no,statewide outlet; county frame does not apply
+South Side Weekly,South Side Weekly Nfp,Local,IL,17031,2023,828209,,,828209.0,2100230,1146547.0,2546924247,3826471000,0.394,0.722,0.0,0.0,yes,
+Charlottesville Tomorrow,Charlottesville Tomorrow,Local,VA,51540,2023,966085,2022.0,685164.0,825624.5,19815,19815.0,59480163,56843000,41.667,41.667,0.014,0.007,no,"service area under 25,000 households"
+South Seattle Emerald,South Seattle Emerald,Local,WA,53033,2023,817991,,,817991.0,941054,353019.0,1008440688,2665214000,0.869,2.317,0.001,0.0,yes,
+San Jose Spotlight,San Jose News Bureau,Local,CA,6085,2023,906942,2022.0,710181.0,808561.5,659353,326767.0,1810415631,5114818000,1.226,2.474,0.0,0.0,yes,
+Bay Nature,Bay Nature Institute,Local,CA,6001,2023,881869,2022.0,612376.0,747122.5,598246,,218013635,1428039000,1.249,,0.003,0.0,no,magazine
+Street Sense,Street Sense Inc,Regional,DC,11001,2023,780553,2022.0,713281.0,746917.0,324491,,777994405,1110685000,2.302,,0.001,0.0,no,street paper
+Oklahoma Watch,Oklahoma Watch Inc,Statewide,OK,40143,2023,765911,2022.0,725183.0,745547.0,272422,,205034342,651181000,2.737,,0.004,0.001,no,statewide outlet; county frame does not apply
+Baltimore Beat,Baltimore Beat Inc,Local,MD,24510,2023,675104,2022.0,725401.0,700252.5,255668,255668.0,308824069,314597000,2.739,2.739,0.002,0.001,yes,
+The Maine Monitor,Maine Center For Public Interest Reporting,Statewide,ME,23011,2023,809167,2022.0,538019.0,673593.0,54312,,13386484,19855000,12.402,,0.05,0.02,no,statewide outlet; county frame does not apply
+InvestigateWest,Investigatewest,Regional,WA,53033,2023,825134,2022.0,468682.0,646908.0,941054,941054.0,1008440688,2665214000,0.687,0.687,0.001,0.0,yes,
+San Francisco Public Press,San Francisco Public Press,Local,CA,6075,2023,429984,2022.0,791665.0,610824.5,363970,363970.0,1860518515,2108685000,1.678,1.678,0.0,0.0,yes,
+Canopy Atlanta,Canopy Atlanta,Local,GA,13121,2023,478592,2022.0,680288.0,579440.0,462481,231504.0,881527999,1534790000,1.253,2.503,0.001,0.0,yes,
+Mission Local,Mission Local Sf,Local,CA,6075,2023,716255,2022.0,413228.0,564741.5,363970,363970.0,1860518515,2108685000,1.552,1.552,0.0,0.0,yes,
+The Frontier,Frontier Media Group,Statewide,OK,40143,2023,540776,2022.0,511502.0,526139.0,272422,,205034342,651181000,1.931,,0.003,0.001,no,statewide outlet; county frame does not apply
+Carolina Public Press,Carolina Public Press Inc,Statewide,NC,37183,2023,403153,2022.0,595684.0,499418.5,460175,,105076836,953870000,1.085,,0.005,0.0,no,statewide outlet; county frame does not apply
+New Mexico In Depth,New Mexico In Depth Inc,Statewide,NM,35043,2023,481940,2022.0,516614.0,499277.0,56895,,1249265,48036000,8.775,,0.4,0.01,no,statewide outlet; county frame does not apply
+South Dakota News Watch,South Dakota News Watch,Statewide,SD,46011,2023,442881,2022.0,554117.0,498499.0,13798,,46957,12333000,36.128,,10.616,0.04,no,statewide outlet; county frame does not apply
+Evanston RoundTable,Evanston Roundtable Media,Local,IL,17031,2023,556136,2022.0,436589.0,496362.5,2100230,31387.0,2546924247,3826471000,0.236,15.814,0.0,0.0,yes,
+Montclair Local,Montclair Local Nonprofit News Inc,Local,NJ,34013,2022,383035,2021.0,584761.0,483898.0,319788,15118.0,316298895,520249000,1.513,32.008,0.002,0.001,no,"service area under 25,000 households"
+Bay City News Foundation,Bay City News Foundation,Regional,CA,6075,2023,481028,,,481028.0,363970,363970.0,1860518515,2108685000,1.322,1.322,0.0,0.0,yes,
+Borderless Magazine,Borderless Magazine Nfp,Local,IL,17031,2023,486213,2022.0,472647.0,479430.0,2100230,1146547.0,2546924247,3826471000,0.228,0.418,0.0,0.0,yes,
+The Highlands Current,Highlands Current Inc,Local,NY,36079,2024,423048,2023.0,515825.0,469436.5,35545,10198.0,7499196,53806000,13.207,46.032,0.063,0.008,no,"service area under 25,000 households"
+Bucks County Herald,Bucks County Herald Foundation,Local,PA,42017,2023,589482,2022.0,336441.0,462961.5,249187,249187.0,54128834,374012000,1.858,1.858,0.009,0.001,yes,
+Aspen Journalism,Aspen Journalism,Regional,CO,8097,2023,493966,2022.0,431382.0,462674.0,9215,9215.0,26603839,121826000,50.209,50.209,0.017,0.003,no,"service area under 25,000 households"
+Boulder Reporting Lab,Local Reporting Lab Initiative Inc,Local,CO,8013,2023,485994,2022.0,397653.0,441823.5,137008,43825.0,121108285,322927000,3.225,10.082,0.004,0.001,yes,
+Spotlight Delaware,Spotlight Delaware Inc,Statewide,DE,10003,2023,440827,,,440827.0,224173,,1286330237,293280000,1.966,,0.0,0.0,no,statewide outlet; county frame does not apply
+Asheville Watchdog,Asheville Watchdog,Local,NC,37021,2023,408282,2022.0,455406.0,431844.0,101855,101855.0,95125798,143271000,4.24,4.24,0.005,0.002,yes,
+Investigative Post,Investigative Post Inc,Local,NY,36029,2023,406713,,,406713.0,409665,409665.0,140066856,217334000,0.993,0.993,0.003,0.001,yes,
+India Currents,India Currents Foundation,Local,CA,6085,2023,486282,2022.0,304342.0,395312.0,659353,,1810415631,5114818000,0.6,,0.0,0.0,no,magazine
+Austin Monitor,Capital Of Texas Media Foundation,Local,TX,48453,2023,401437,2022.0,319717.0,360577.0,583747,440294.0,356799570,1484843000,0.618,0.819,0.001,0.0,yes,
+ecoRI News,Ecori Inc,Regional,RI,44007,2023,396135,2022.0,317776.0,356955.5,259210,259210.0,159651640,146654000,1.377,1.377,0.002,0.001,yes,
+CivicLex,Civiclex Incorporated,Local,KY,21067,2023,367144,2022.0,311471.0,339307.5,139715,139715.0,24650368,159341000,2.429,2.429,0.014,0.002,yes,
+BenitoLink,Benitolink Inc,Local,CA,6069,2023,296268,2022.0,344214.0,320241.0,20561,20561.0,1315746,30693000,15.575,15.575,0.243,0.01,no,"service area under 25,000 households"
+The Ithaca Voice,Ithaca Voice,Local,NY,36109,2023,267149,2022.0,273814.0,270481.5,43263,43263.0,45528425,32955000,6.252,6.252,0.006,0.003,yes,
+Isthmus Community Media,Isthmus Community Media Inc,Local,WI,55025,2023,283661,2022.0,248950.0,266305.5,251529,251529.0,76405537,323803000,1.059,1.059,0.003,0.001,yes,
+Atlanta Civic Circle,Atlanta Civic Circle Inc,Local,GA,13121,2021,248167,,,248167.0,462481,231504.0,881527999,1534790000,0.537,1.072,0.0,0.0,yes,
+The Land,Land Cle,Local,OH,39035,2023,172865,2022.0,318199.0,245532.0,554551,168652.0,592518054,587121000,0.443,1.456,0.0,0.0,yes,
+The Indiana Citizen,Indiana Citizen Education Foundation Inc,Statewide,IN,18097,2023,146851,2022.0,258778.0,202814.5,400432,,329546888,509350000,0.506,,0.001,0.0,no,statewide outlet; county frame does not apply
+Gig Harbor Now,Gig Harbor Now,Local,WA,53053,2023,218484,2022.0,179255.0,198869.5,351330,22847.0,46198573,352697000,0.566,8.704,0.004,0.0,no,"service area under 25,000 households"
+The Sopris Sun,Sopris Sun Inc,Local,CO,8045,2023,223363,2022.0,151779.0,187571.0,23404,23404.0,34653255,61061000,8.014,8.014,0.005,0.002,no,"service area under 25,000 households"
+The Daily Catch,The Red Hook Daily Catch Inc,Local,NY,36027,2023,187685,2022.0,138764.0,163224.5,116275,7589.0,31937290,140030000,1.404,21.508,0.005,0.001,no,"service area under 25,000 households"
+Patagonia Regional Times,Patagonia Regional Times Inc,Local,AZ,4023,2023,138644,2022.0,155830.0,147237.0,16966,16966.0,38557,5650000,8.678,8.678,3.819,0.026,no,"service area under 25,000 households"
+Ipswich Local News,Ipswich Local News Inc,Local,MA,25009,2023,143066,2022.0,127339.0,135202.5,313147,5757.0,95980600,385061000,0.432,23.485,0.001,0.0,no,"service area under 25,000 households"
+The Buckeye Flame,The Buckeye Flame,Statewide,OH,39035,2023,155520,2022.0,73221.0,114370.5,554551,,592518054,587121000,0.206,,0.0,0.0,no,statewide outlet; county frame does not apply
+The Oglethorpe Echo,Oglethorpe Echo Legacy Incorporated,Local,GA,13221,2023,59694,2022.0,19137.0,39415.5,5411,5411.0,130500,7954000,7.284,7.284,0.302,0.005,no,"service area under 25,000 households"
+Fresnoland,Fresnoland Media,Local,CA,6019,2023,22313,2022.0,34843.0,28578.0,324702,324702.0,18245668,349514000,0.088,0.088,0.002,0.0,yes,
